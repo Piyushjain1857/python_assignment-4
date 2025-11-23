@@ -4,7 +4,7 @@
 
 '''Ans:- Differcence Between NumPy and List :--
 1) The NumPy arreys are 50x faster then the lists.
-2) NumPy arreys can stores only hetrogenious data type where as the list stores homogenious data.
+2) NumPy arreys can stores only homogenious data type where as the list stores homogenious data.
 3) NumPy uses less memory where as lists uses more memory.
 4) NumPy can perform direct element operations whereas in lists we have to use loops to perform any operation.
 5) NumPy is multi-dimensional whereas list is only one-dimensional.
