@@ -1,10 +1,10 @@
 # Q1. Explain the key features of NumPy and highlight the major differences between NumPy arrays and Python lists with appropriate examples.
 
-'''Ans:- NumPy is a multy dimensional arrey object which can efficienty store and manuplate data easily.It have many build-in functions such as indexing,slicing,mathametical,statistical,etc functions. It can perform slicing without using the loops. It also have a powerfull mechanism that can perform on arrays of different shapes and sizes'''
+'''Ans:- NumPy is a multi-dimensional array object which can efficiently store and manipulate data easily.It have many built-in functions such as indexing,slicing,mathematical,statistical,etc functions. It can perform slicing without using the loops. It also have a powerful mechanisms that can perform on arrays of different shapes and sizes'''
 
-'''Ans:- Differcence Between NumPy and List :--
-1) The NumPy arreys are 50x faster then the lists.
-2) NumPy arreys can stores only homogenious data type where as the list stores homogenious data.
+'''Ans:- Difference Between NumPy and List :--
+1) The NumPy arrays are 50x faster then the lists.
+2) NumPy arrays can stores only homogeneous data type where as the list stores hetrogenious data.
 3) NumPy uses less memory where as lists uses more memory.
 4) NumPy can perform direct element operations whereas in lists we have to use loops to perform any operation.
 5) NumPy is multi-dimensional whereas list is only one-dimensional.
